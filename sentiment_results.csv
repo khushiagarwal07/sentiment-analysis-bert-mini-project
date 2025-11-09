@@ -1,0 +1,6 @@
+Review,Predicted Sentiment,Confidence
+I absolutely loved this movie! The acting was fantastic and the story was beautiful.,POSITIVE,1.0
+It was a waste of time. The plot was boring and predictable.,NEGATIVE,1.0
+"An average movie, not too bad but nothing special either.",NEGATIVE,0.996
+The direction and cinematography were breathtaking. Highly recommend it!,POSITIVE,1.0
+Terrible movie. I walked out halfway through.,NEGATIVE,1.0
